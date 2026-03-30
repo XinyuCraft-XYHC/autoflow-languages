@@ -1,0 +1,62 @@
+[
+  {
+    "code": "ja_JP",
+    "name": "日本語",
+    "name_en": "Japanese",
+    "author": "AutoFlow Community",
+    "version": "1.0.0",
+    "description": "AutoFlow の日本語言語パック",
+    "download_url": "https://raw.githubusercontent.com/XinyuCraft-XYHC/autoflow-languages/main/languages/ja_JP/ja_JP.json",
+    "updated": "2026-03-30",
+    "stars": 0,
+    "verified": true
+  },
+  {
+    "code": "ko_KR",
+    "name": "한국어",
+    "name_en": "Korean",
+    "author": "AutoFlow Community",
+    "version": "1.0.0",
+    "description": "AutoFlow 한국어 언어팩",
+    "download_url": "https://raw.githubusercontent.com/XinyuCraft-XYHC/autoflow-languages/main/languages/ko_KR/ko_KR.json",
+    "updated": "2026-03-30",
+    "stars": 0,
+    "verified": true
+  },
+  {
+    "code": "fr_FR",
+    "name": "Français",
+    "name_en": "French",
+    "author": "AutoFlow Community",
+    "version": "1.0.0",
+    "description": "Pack de langue français pour AutoFlow",
+    "download_url": "https://raw.githubusercontent.com/XinyuCraft-XYHC/autoflow-languages/main/languages/fr_FR/fr_FR.json",
+    "updated": "2026-03-30",
+    "stars": 0,
+    "verified": true
+  },
+  {
+    "code": "de_DE",
+    "name": "Deutsch",
+    "name_en": "German",
+    "author": "AutoFlow Community",
+    "version": "1.0.0",
+    "description": "Deutsches Sprachpaket für AutoFlow",
+    "download_url": "https://raw.githubusercontent.com/XinyuCraft-XYHC/autoflow-languages/main/languages/de_DE/de_DE.json",
+    "updated": "2026-03-30",
+    "stars": 0,
+    "verified": true
+  },
+  {
+    "code": "ru_RU",
+    "name": "Русский",
+    "name_en": "Russian",
+    "author": "AutoFlow Community",
+    "version": "1.0.0",
+    "description": "Русский языковой пакет для AutoFlow",
+    "download_url": "https://raw.githubusercontent.com/XinyuCraft-XYHC/autoflow-languages/main/languages/ru_RU/ru_RU.json",
+    "updated": "2026-03-30",
+    "stars": 0,
+    "verified": true
+  }
+]
